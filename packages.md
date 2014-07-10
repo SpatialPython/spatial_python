@@ -38,6 +38,7 @@
 * [pelican][] - For blogging about all this stuff...
 
 
+[rasterio]: https://github.com/mapbox/rasterio
 [pandas]: http://pandas.pydata.org/
 [geopandas]: https://github.com/kjordahl/geopandas
 [shapely]: https://pypi.python.org/pypi/Shapely
