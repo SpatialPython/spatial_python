@@ -13,6 +13,7 @@
 * [ogr/gdal][] - For reading, writing, and transforming geospatial data formats
 * [pyqgis][] - For anything and everything GIS
 * [geopy][] - For geolocating and things like that
+* [geojsonio.py][] - For shooting data to the web
 
 ## Data Analysis
 
@@ -23,9 +24,11 @@
 ## Plotting/Mapping
 
 * [matplotlib][] - For all my plotting needs
-* [cartopy][] - For plotting spatial data
+* [cartopy][] - For plotting spatial data on projections and more
 * [nodebox-opengl][] - For playing around with animations
 * [descartes][] - For plotting geometries in matplotlib
+* [basemap][] - For plotting geospatial data on projections
+* [mplleaflet][] - For creating web-maps
 
 ## General Python
 
@@ -37,7 +40,9 @@
 
 * [pelican][] - For blogging about all this stuff...
 
-
+[mplleaflet]: https://github.com/jwass/mplleaflet
+[geojsonio.py]: https://github.com/jwass/geojsonio.py
+[basemap]: https://github.com/matplotlib/basemap
 [rasterio]: https://github.com/mapbox/rasterio
 [pandas]: http://pandas.pydata.org/
 [geopandas]: https://github.com/kjordahl/geopandas
