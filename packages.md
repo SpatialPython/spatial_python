@@ -20,6 +20,7 @@
 * [statsmodels][] - For models and stats in Python
 * [pysal][] - For all your spatial econometrics needs (and more)
 * [networkx][] - For working with networks (duh!)
+* [rasterstats][] - For analyzing rasters based on vector geometries (zonal statistics)
 
 ## Plotting/Mapping
 
@@ -66,3 +67,5 @@
 [pyproj]: https://code.google.com/p/pyproj/
 [pyshp]: https://code.google.com/p/pyshp/
 [descartes]: https://pypi.python.org/pypi/descartes
+[rasterstats]: https://github.com/perrygeo/python-raster-stats
+
