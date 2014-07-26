@@ -62,7 +62,7 @@
 [networkx]: http://networkx.github.io/
 [pelican]: http://docs.getpelican.com/en/3.2/
 [pyqgis]: http://www.qgis.org/pyqgis-cookbook/
-[pysal]: http://pythonhosted.org/PySAL/
+[pysal]: http://pysal.org
 [geographiclib]: http://geographiclib.sourceforge.net/
 [pyproj]: https://code.google.com/p/pyproj/
 [pyshp]: https://code.google.com/p/pyshp/
