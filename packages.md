@@ -18,7 +18,7 @@
 ## Data Analysis
 
 * [statsmodels][] - For models and stats in Python
-* [pysal][] - Spatial econometrics, exploratory spatial and space-time data analysis, spatially constrained clustering (vector data)
+* [pysal][] - For all your spatial econometrics needs (and more)
 * [networkx][] - For working with networks (duh!)
 * [rasterstats][] - For analyzing rasters based on vector geometries (zonal statistics)
 
@@ -26,6 +26,7 @@
 
 * [matplotlib][] - For all my plotting needs
 * [cartopy][] - For plotting spatial data on projections and more
+* [folium][] - Python Data. Leaflet.js Maps.
 * [nodebox-opengl][] - For playing around with animations
 * [descartes][] - For plotting geometries in matplotlib
 * [basemap][] - For plotting geospatial data on projections
@@ -59,6 +60,7 @@
 [ogr/gdal]: https://pypi.python.org/pypi/GDAL/
 [matplotlib]: http://matplotlib.org/
 [fiona]: http://toblerity.github.io/fiona/
+[folium]: https://github.com/python-visualization/folium
 [networkx]: http://networkx.github.io/
 [pelican]: http://docs.getpelican.com/en/3.2/
 [pyqgis]: http://www.qgis.org/pyqgis-cookbook/
