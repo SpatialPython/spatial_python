@@ -14,6 +14,7 @@
 * [pyqgis][] - For anything and everything GIS
 * [geopy][] - For geolocating and things like that
 * [geojsonio.py][] - For shooting data to the web
+* [geog][] - For a numpy interface to solve geodesic problems
 
 ## Data Analysis
 
@@ -70,4 +71,5 @@
 [pyshp]: https://code.google.com/p/pyshp/
 [descartes]: https://pypi.python.org/pypi/descartes
 [rasterstats]: https://github.com/perrygeo/python-raster-stats
+[geog]: https://github.com/jwass/geog
 
