@@ -19,7 +19,7 @@
 ## Data Analysis
 
 * [statsmodels][] - For models and stats in Python
-* [pysal][] - For all your spatial econometrics needs (and more)
+* [pysal][] -  Spatial econometrics, exploratory spatial and spatio-temporal data analysis, spatial clustering (and more)
 * [networkx][] - For working with networks (duh!)
 * [rasterstats][] - For analyzing rasters based on vector geometries (zonal statistics)
 
