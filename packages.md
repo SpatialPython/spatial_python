@@ -15,9 +15,14 @@
 * [geopy][] - For geolocating and things like that
 * [geojsonio.py][] - For shooting data to the web
 * [geog][] - For a numpy interface to solve geodesic problems
+* [h5py][] - Your pythonic gateway to hdf5 files
+* [pyModis][] - Download and preprocess MODIS data
 
 ## Data Analysis
 
+* [scipy][] - General scientific computing library. Has a spatial module.
+* [scikit-image][] - Algorithms for (satellite) image processing
+* [scikit-learn][] - Machine learning for python
 * [statsmodels][] - For models and stats in Python
 * [pysal][] -  Spatial econometrics, exploratory spatial and spatio-temporal data analysis, spatial clustering (and more)
 * [networkx][] - For working with networks (duh!)
@@ -72,4 +77,8 @@
 [descartes]: https://pypi.python.org/pypi/descartes
 [rasterstats]: https://github.com/perrygeo/python-raster-stats
 [geog]: https://github.com/jwass/geog
-
+[scipy]: https://github.com/scipy/scipy
+[scikit-image]: http://scikit-image.org/
+[scikit-learn]: https://github.com/scikit-learn/scikit-learn
+[h5py]: https://github.com/h5py/h5py
+[pyModis]: https://pypi.python.org/pypi/pyModis
