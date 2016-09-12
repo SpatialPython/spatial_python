@@ -17,6 +17,7 @@
 * [geog][] - For a numpy interface to solve geodesic problems
 * [h5py][] - Your pythonic gateway to hdf5 files
 * [pyModis][] - Download and preprocess MODIS data
+* [pyspatial](https://github.com/granularag/pyspatial) - projection aware querying of vector/raster data
 
 ## Data Analysis
 
